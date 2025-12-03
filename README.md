@@ -6,4 +6,12 @@ Second Assignement :
 Used Coco128 to train the model Yolo128n.pt for just 3 epochs 
 
 
+AsL SignLanguage to text converter
+
+Creating Dataset :
+=>from 5 youtube videos taken out the ASL signs from 5 different people 
+=>and using makesense.ai(as i cannot download label-studio due to network issues) labelled bounding boxes for hands 
+=>exported as zip 
+=>using albumentations performed Data Augumentation on both iamges and bounding boxes at the same time
+
 
