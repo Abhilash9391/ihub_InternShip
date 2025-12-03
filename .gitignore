@@ -1,0 +1,12 @@
+finalProject/SignLanguage2/
+finalProject/BoundingBoxes/
+finalProject/augmented/
+datasets/
+*.png
+*.jpg
+*.zip
+*.mp4
+*.npy
+*.pt
+*.onnx
+*.engine
