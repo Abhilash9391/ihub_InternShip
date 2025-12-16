@@ -18,11 +18,12 @@ Model Training :
 The system employs a YOLOv8 object detection model, fine-tuned through transfer learning for real-time gesture detection and classification.
 
 Results:
+## 🎥 Demo
+https://github.com/user-attachments/assets/3a9ef4f1-1e49-4557-aced-54143ec26eed
 
 <img width="1920" height="1648" alt="image" src="https://github.com/user-attachments/assets/c21741c9-c41e-48cd-b944-b2c3b5192077" />
 <img width="2400" height="1200" alt="image" src="https://github.com/user-attachments/assets/0a820ba4-ccd0-4706-a4d3-182f1c039f98" />
 <img width="1600" height="1600" alt="image" src="https://github.com/user-attachments/assets/dfcc2a55-8233-484b-9f11-035880feb458" />
-https://github.com/user-attachments/assets/3a9ef4f1-1e49-4557-aced-54143ec26eed
 <img width="3000" height="2250" alt="image" src="https://github.com/user-attachments/assets/77ee97dc-19d8-441c-87f3-279a51323d34" />
 
 
